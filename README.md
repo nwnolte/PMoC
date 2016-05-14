@@ -27,38 +27,55 @@ Add AndroidStudioProjects\APeoplesMapofCorvallisApp\app\build\intermediates
 -----------------------------------------------------
 
 First Screen:
+
 Welcome Screen
+
 Button"Contribute" - Button
+
 Button"Just Look"
+
 Button"About"
 
 ----------------------------------------------------
 
 Contribute
+
 "What would you like to contribute?"
+
 Button"Audio"
+
 Button"Video"
+
 Button"Picture"
 
 ----------------------------------------------------
 
 Just Look
+
 ""
+
 ""
 
 ----------------------------------------------------
 
 About
+
 ""
+
 ""
 
 ----------------------------------------------------
 
 Picture Screen
+
 "Explaination text"
+
 ButtonE"Upload"
+
 ButtonE"Camera"
+
 ButtonL"Last Photo"
+
 ButtonL"Editing Tools"
 
 
