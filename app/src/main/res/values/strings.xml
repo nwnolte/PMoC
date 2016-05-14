@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">APeoplesMapofCorvallisApp</string>
     <string name="title_activity_map_selector">AreaMap</string>
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnTakeVideo">Take Video</string>
+
+
 </resources>
