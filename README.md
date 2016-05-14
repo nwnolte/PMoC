@@ -82,6 +82,10 @@ ButtonL"Editing Tools"
 ----------------------------------------------------
 
 Camera
+
+Starts the Camera for user to take picture
+
+
 Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE); 
     captured_image = System.currentTimeMillis() + ".jpg";
     File file = new File(Environment.getExternalStorageDirectory(), captured_image); 
