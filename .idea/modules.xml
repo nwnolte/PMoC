@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/APeoplesMapofCorvallisApp.iml" filepath="$PROJECT_DIR$/APeoplesMapofCorvallisApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PMoC.iml" filepath="$PROJECT_DIR$/PMoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
