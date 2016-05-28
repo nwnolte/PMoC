@@ -3,13 +3,23 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:baselineAligned="false"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:weightSum="1">
 
     <EditText
-        android:layout_width="334dp"
-        android:layout_height="157dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:id="@+id/welcome_text"
-        android:text="Welcome to Island Musics Peoples Map of Corvallis" />
+        android:text="Welcome to the Peoples Map of Corvallis" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="This app is create with you in mind. Come join us in creating the world we see around us."
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.84" />
 
     <Button
         android:layout_width="212dp"
