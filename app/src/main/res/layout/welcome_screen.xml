@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_width="334dp"
+        android:layout_height="157dp"
+        android:id="@+id/welcome_text"
+        android:text="Welcome to Island Musics Peoples Map of Corvallis" />
+
+    <Button
+        android:layout_width="212dp"
+        android:layout_height="wrap_content"
+        android:text="Contribute"
+        android:id="@+id/btn_contribute" />
+
+    <Button
+        android:layout_width="211dp"
+        android:layout_height="wrap_content"
+        android:text="Just Look"
+        android:id="@+id/btn_jslk" />
+
+    <Button
+        android:layout_width="209dp"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:id="@+id/btn_about" />
+
+</LinearLayout>
