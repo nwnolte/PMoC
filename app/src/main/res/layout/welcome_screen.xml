@@ -30,7 +30,7 @@
     <Button
         android:layout_width="211dp"
         android:layout_height="wrap_content"
-        android:text="Just Look"
+        android:text=btn_look
         android:id="@+id/btn_jslk" />
 
     <Button
