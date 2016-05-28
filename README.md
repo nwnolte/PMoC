@@ -22,6 +22,11 @@ To do list:
 
 Add AndroidStudioProjects\APeoplesMapofCorvallisApp\app\build\intermediates
 
+*File hosting, website or other?
+
+*mySQL for image/geocode?
+
+*Gradle & Cheese?
 
 
 -----------------------------------------------------
@@ -179,3 +184,7 @@ public static boolean upload_image(String url, List<NameValuePair> nameValuePair
 ""
 
 ----------------------------------------------------
+
+Upload
+
+Opens 
