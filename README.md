@@ -25,6 +25,10 @@ Add AndroidStudioProjects\APeoplesMapofCorvallisApp\app\build\intermediates
 *File hosting, website or other?
 
 *mySQL for image/geocode?
+>use XAMPP to test server and database
+>must store media components to database as well as recieve
+>*Figure out setting up database host
+>*Database for users? Store work?
 
 *Gradle & Cheese?
 

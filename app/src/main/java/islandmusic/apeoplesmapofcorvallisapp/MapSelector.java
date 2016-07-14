@@ -48,3 +48,9 @@ public class MapSelector extends FragmentActivity implements OnMapReadyCallback 
         mMap.moveCamera(CameraUpdateFactory.newLatLng(corv));
     }
 }
+
+    public void addMediaLoc(GoggleMap googleMap, ){
+
+
+        mMap.addMarker(new MarkerOptions().position(lndMrkLoc).title(lndMrkName));
+    }
