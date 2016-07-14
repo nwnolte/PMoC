@@ -24,19 +24,23 @@
     <Button
         android:layout_width="212dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
         android:text="Contribute"
         android:id="@+id/btn_contribute" />
 
     <Button
         android:layout_width="211dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
         android:text="Just Look"
         android:id="@+id/btn_jslk" />
 
     <Button
         android:layout_width="209dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
         android:text="About"
-        android:id="@+id/btn_about" />
+        android:id="@+id/btn_about"
+        android:onClick="sendMessage"/>
 
 </LinearLayout>

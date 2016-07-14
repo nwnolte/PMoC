@@ -3,7 +3,7 @@
     <string name="title_activity_map_selector">AreaMap</string>
     <string name="welcome_text"></string>
     <string name="btn_cont"></string>
-    <string name="btn_look"></string>
+    <string name="btn_look">Just Look</string>
     <string name="btn_abt"></string>
     <string name="btn_audio"></string>
     <string name="btn_video"></string>

@@ -11,3 +11,8 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
         super(Application.class);
     }
 }
+
+
+    public void sendMessage(View view) {
+        // Do something in response to button
+    }

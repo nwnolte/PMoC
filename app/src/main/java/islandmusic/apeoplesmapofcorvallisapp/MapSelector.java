@@ -24,6 +24,10 @@ public class MapSelector extends FragmentActivity implements OnMapReadyCallback 
         mapFragment.getMapAsync(this);
     }
 
+    public void sendMessage(View view) {
+        // Do something in response to button
+        // Display window/screen with about text and web-link/emails
+    }
 
     /**
      * Manipulates the map once available.
@@ -39,8 +43,8 @@ public class MapSelector extends FragmentActivity implements OnMapReadyCallback 
         mMap = googleMap;
 
         // Add a marker in Sydney and move the camera
-        LatLng sydney = new LatLng(-34, 151);
-        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+        LatLng corv = new LatLng(44.5646, 123.2620);
+        mMap.addMarker(new MarkerOptions().position(corv).title("Corvallis"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(corv));
     }
 }
