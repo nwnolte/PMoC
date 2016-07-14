@@ -27,6 +27,7 @@ Add AndroidStudioProjects\APeoplesMapofCorvallisApp\app\build\intermediates
 *mySQL for image/geocode?
 >use XAMPP to test server and database
 >must store media components to database as well as recieve
+>https://developers.google.com/maps/articles/phpsqlajax_v3
 >*Figure out setting up database host
 >*Database for users? Store work?
 
